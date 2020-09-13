@@ -1,95 +1,17 @@
-<mxfile modified="2020-09-13T18:06:57.225Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="uOPKDvuCffzLoGWmo2MA" version="13.6.10" type="github">
+<mxfile modified="2020-09-13T18:11:09.955Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="dNsMOE50NEY9jBqZP6kz" version="13.6.10" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1117" dy="1451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-517" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="-240" width="560" height="520" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-26" value="" style="endArrow=classic;html=1;exitX=0.444;exitY=0.541;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.527;entryY=-0.094;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-19" target="H0Uw_oi4I9NrX1j97PpR-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="690" as="sourcePoint" />
-            <mxPoint x="700" y="640" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="286" y="558" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-3" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_3016_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="479.5" y="100" width="161" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-4" value="" style="shape=mxgraph.rack.cisco.cisco_1941_series_integrated_services_router;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="585" y="309" width="161" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-5" value="" style="shape=mxgraph.rack.cisco.cisco_1905_serial_integrated_services_router;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="424" y="220" width="161" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-6" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_3016_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="80" y="100" width="161" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-8" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_3016_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="680" y="100" width="161" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-9" value="" style="shape=mxgraph.rack.cisco.cisco_1941_series_integrated_services_router;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="263" y="309" width="161" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-10" value="Модем" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="318.5" y="344" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-11" value="Модем" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="640.5" y="344" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-12" value="" style="shape=mxgraph.rack.cisco.cisco_1941_series_integrated_services_router;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="585" y="420" width="161" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-13" value="" style="shape=mxgraph.rack.cisco.cisco_1941_series_integrated_services_router;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="263" y="420" width="161" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-14" value="Модем" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="315.5" y="400" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-15" value="Модем" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="640.5" y="400" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-16" value="Удаленный маршрутизатор" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="419.5" y="240" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-17" value="" style="shape=mxgraph.rack.cisco.cisco_1905_serial_integrated_services_router;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="200" y="600" width="161" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-18" value="Удаленный маршрутизатор" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="195.5" y="620" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-19" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_3016_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="50" y="550" width="161" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-20" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_3016_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="50" y="680" width="161" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-21" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_3016_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="350" y="680" width="161" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-22" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_3016_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="350" y="550" width="161" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-27" value="" style="endArrow=classic;html=1;entryX=0.547;entryY=-0.094;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-22" target="H0Uw_oi4I9NrX1j97PpR-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="690" as="sourcePoint" />
-            <mxPoint x="280" y="590" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="281" y="558" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-28" value="Модем" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="940" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300" y="-570" width="560" height="520" as="geometry" />
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-29" target="H0Uw_oi4I9NrX1j97PpR-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Коммутатор&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="-60" width="120" height="20" as="geometry" />
+          <mxGeometry x="1330" y="-390" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-31" target="H0Uw_oi4I9NrX1j97PpR-33">
           <mxGeometry relative="1" as="geometry" />
@@ -98,48 +20,104 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-31" value="Удаленный маршрутизатор" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="55" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="H0Uw_oi4I9NrX1j97PpR-32" value="Модем" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="950" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1500" y="-275" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-33" value="Модем" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="1420" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-34" value="Модем" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="1620" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-39" target="H0Uw_oi4I9NrX1j97PpR-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1440" y="40.00000000000023" as="targetPoint" />
+            <mxPoint x="1580" y="-289.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Коммутатор&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="-60" width="120" height="20" as="geometry" />
+          <mxGeometry x="1700" y="-390" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-40" target="H0Uw_oi4I9NrX1j97PpR-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Коммутатор&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="-60" width="120" height="20" as="geometry" />
+          <mxGeometry x="1550" y="-390" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-45" target="H0Uw_oi4I9NrX1j97PpR-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-45" value="ЛВС&lt;br&gt;10G Base LR" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="-200" width="140" height="40" as="geometry" />
+          <mxGeometry x="1320" y="-530" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-47" target="H0Uw_oi4I9NrX1j97PpR-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-47" value="ЛВС&lt;br&gt;100 Base FX" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="-200" width="140" height="40" as="geometry" />
+          <mxGeometry x="1540" y="-530" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-48" target="H0Uw_oi4I9NrX1j97PpR-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-48" value="ЛВС&lt;br&gt;100 Base FX" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="-200" width="140" height="40" as="geometry" />
+          <mxGeometry x="1690" y="-530" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-52" value="Модем" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-53" target="H0Uw_oi4I9NrX1j97PpR-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-53" value="Удаленный маршрутизатор" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-54" target="H0Uw_oi4I9NrX1j97PpR-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-54" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Коммутатор&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-55" target="H0Uw_oi4I9NrX1j97PpR-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Коммутатор&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="140" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-56" target="H0Uw_oi4I9NrX1j97PpR-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-56" target="H0Uw_oi4I9NrX1j97PpR-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-56" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Коммутатор&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="140" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-57" target="H0Uw_oi4I9NrX1j97PpR-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2180" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-57" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Коммутатор&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-58" target="H0Uw_oi4I9NrX1j97PpR-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-58" value="ЛВС&lt;br&gt;100 Base T4" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="360" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-59" target="H0Uw_oi4I9NrX1j97PpR-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-59" value="ЛВС&lt;br&gt;100 Base T4" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="60" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-60" value="ЛВС&lt;br&gt;100 Base T4" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="60" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-61" target="H0Uw_oi4I9NrX1j97PpR-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-61" value="ЛВС&lt;br&gt;100 Base T4" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="360" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
