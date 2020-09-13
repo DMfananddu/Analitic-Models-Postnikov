@@ -1,6 +1,6 @@
-<mxfile modified="2020-09-13T18:26:46.411Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="iQCAsBgQdccQzO6VyUOb" version="13.6.10" type="github">
+<mxfile modified="2020-09-13T18:27:31.612Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="nbOSQVZxYzmq6bmv9SXN" version="13.6.10" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="-249" dy="1341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="395" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,6 +177,9 @@
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-89" value="Филиал 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2030" y="-385" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-90" value="Центральный&lt;br&gt;офис" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1475" y="-570" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
