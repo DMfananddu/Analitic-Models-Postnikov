@@ -1,6 +1,6 @@
-<mxfile modified="2020-09-13T17:53:44.328Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="NvJLxOmAyp_inQGyZriS" version="13.6.10" type="github">
+<mxfile modified="2020-09-13T18:06:04.470Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="x5pktbud_zB46iMswbWw" version="13.6.10" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1303" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="1451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,10 +80,63 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-28" value="Модем" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="920" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-29" target="H0Uw_oi4I9NrX1j97PpR-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H0Uw_oi4I9NrX1j97PpR-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Коммутатор&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="920" y="260" width="120" height="20" as="geometry" />
+          <mxGeometry x="1190" y="-60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-31" target="H0Uw_oi4I9NrX1j97PpR-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-31" target="H0Uw_oi4I9NrX1j97PpR-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-31" value="Удаленный маршрутизатор" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="55" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-32" value="Модем" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="950" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-33" value="Модем" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-34" value="Модем" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-39" target="H0Uw_oi4I9NrX1j97PpR-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1440" y="40.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Коммутатор&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="-60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-40" target="H0Uw_oi4I9NrX1j97PpR-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Коммутатор&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="-60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-45" target="H0Uw_oi4I9NrX1j97PpR-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-45" value="ЛВС&lt;br&gt;10G Base LR" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-47" target="H0Uw_oi4I9NrX1j97PpR-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-47" value="ЛВС&lt;br&gt;100 Base FX" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="-200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="H0Uw_oi4I9NrX1j97PpR-48" target="H0Uw_oi4I9NrX1j97PpR-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0Uw_oi4I9NrX1j97PpR-48" value="ЛВС&lt;br&gt;100 Base FX" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="-200" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
